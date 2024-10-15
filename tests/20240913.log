@@ -1,0 +1,625 @@
+2024-09-13 15:01:47,199: INFO: Driver quitting
+2024-09-13 15:01:50,337: INFO: Driver quitted
+2024-09-13 15:03:09,923: INFO: Searching for element by name tenancyName
+2024-09-13 15:03:19,990: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="tenancyName"]"}
+  (Session info: chrome=128.0.6613.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF30EFE7]
+	(No symbol) [0x00007FF6AF30F23C]
+	(No symbol) [0x00007FF6AF3597C7]
+	(No symbol) [0x00007FF6AF33672F]
+	(No symbol) [0x00007FF6AF3565A2]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 15:03:21,071: INFO: Driver quitting
+2024-09-13 15:03:23,485: INFO: Driver quitted
+2024-09-13 15:05:40,423: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:05:40,423: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:05:40,473: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:05:40,473: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:06:07,372: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:06:07,372: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:06:07,385: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:06:07,386: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:06:19,009: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:06:19,010: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:06:19,031: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:06:19,032: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:06:26,879: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:06:26,879: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:06:26,892: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:06:26,893: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:06:31,401: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:06:31,401: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:06:31,415: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:06:31,416: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:06:38,020: INFO: Searching for element by name tenancyName
+2024-09-13 15:06:48,054: INFO: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="tenancyName"]"}
+  (Session info: chrome=128.0.6613.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF30EFE7]
+	(No symbol) [0x00007FF6AF30F23C]
+	(No symbol) [0x00007FF6AF3597C7]
+	(No symbol) [0x00007FF6AF33672F]
+	(No symbol) [0x00007FF6AF3565A2]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 15:06:49,068: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:06:49,068: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:06:49,082: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:06:49,083: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:06:59,599: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:06:59,599: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:06:59,615: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:06:59,617: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:07:06,083: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:07:06,083: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:07:06,098: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:07:06,099: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:07:08,269: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:07:08,269: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:07:08,281: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:07:08,282: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:07:13,002: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:07:13,002: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:07:13,015: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:07:13,016: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:07:22,304: INFO: Driver quitting
+2024-09-13 15:07:24,591: INFO: Driver quitted
+2024-09-13 15:10:43,101: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:10:43,101: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:10:43,119: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:10:43,119: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:11:01,883: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-13 15:11:01,884: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-13 15:15:22,080: INFO: Driver quitting
+2024-09-13 16:13:53,711: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:13:56,001: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:13:56,001: INFO: Searching for element by name tenancyName
+2024-09-13 16:13:57,563: INFO: Element by name tenancyName found
+2024-09-13 16:13:57,576: INFO: Driver quitting
+2024-09-13 16:13:59,953: INFO: Driver quitted
+2024-09-13 16:17:45,829: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:17:48,026: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:17:48,026: INFO: Searching for element by name tenancyName
+2024-09-13 16:17:49,654: INFO: Element by name tenancyName found
+2024-09-13 16:17:49,668: INFO: Driver quitting
+2024-09-13 16:17:52,172: INFO: Driver quitted
+2024-09-13 16:17:54,141: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:17:56,111: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:17:56,112: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:17:57,968: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:17:58,015: INFO: Driver quitting
+2024-09-13 16:18:00,349: INFO: Driver quitted
+2024-09-13 16:18:02,455: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:18:04,206: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:18:04,207: INFO: Searching for element by name password
+2024-09-13 16:18:05,698: INFO: Element by name password found
+2024-09-13 16:18:05,739: INFO: Driver quitting
+2024-09-13 16:18:08,340: INFO: Driver quitted
+2024-09-13 16:18:10,631: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:18:12,219: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:18:12,219: INFO: Searching for element by name rememberMe
+2024-09-13 16:18:13,699: INFO: Element by name rememberMe found
+2024-09-13 16:18:13,699: INFO: Searching for element by xpath //label[contains(., 'Recuérdame')]
+2024-09-13 16:18:13,726: INFO: Element by xpath //label[contains(., 'Recuérdame')] found
+2024-09-13 16:18:13,873: INFO: Driver quitting
+2024-09-13 16:18:16,271: INFO: Driver quitted
+2024-09-13 16:18:18,605: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:18:19,113: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:18:19,114: INFO: Searching for element by link text Olvidó la contraseña?
+2024-09-13 16:18:21,896: INFO: Element by link text Olvidó la contraseña? found
+2024-09-13 16:18:22,023: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-13 16:18:22,061: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-13 16:18:22,122: INFO: Driver quitting
+2024-09-13 16:18:24,531: INFO: Driver quitted
+2024-09-13 16:18:26,672: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:18:28,398: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:18:28,398: INFO: Searching for element by link text Olvidó su espacio de trabajo?
+2024-09-13 16:18:29,617: INFO: Element by link text Olvidó su espacio de trabajo? found
+2024-09-13 16:18:29,687: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-13 16:18:29,757: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-13 16:18:29,854: INFO: Driver quitting
+2024-09-13 16:18:32,377: INFO: Driver quitted
+2024-09-13 16:18:34,605: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:18:35,094: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:18:35,094: INFO: Searching for element by name tenancyName
+2024-09-13 16:18:38,128: INFO: Element by name tenancyName found
+2024-09-13 16:18:38,146: INFO: None value changed
+2024-09-13 16:18:38,287: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:18:38,311: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:18:38,346: INFO: None value changed
+2024-09-13 16:18:38,387: INFO: Searching for element by name password
+2024-09-13 16:18:38,403: INFO: Element by name password found
+2024-09-13 16:18:38,425: INFO: None value changed
+2024-09-13 16:18:38,467: INFO: Searching for element by name tenancyName
+2024-09-13 16:18:38,479: INFO: Element by name tenancyName found
+2024-09-13 16:18:38,491: INFO: None value changed
+2024-09-13 16:18:38,720: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:18:38,731: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:18:38,748: INFO: None value changed
+2024-09-13 16:18:38,823: INFO: Searching for element by name password
+2024-09-13 16:18:38,836: INFO: Element by name password found
+2024-09-13 16:18:38,854: INFO: None value changed
+2024-09-13 16:18:38,923: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 16:18:38,941: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 16:18:38,972: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 16:18:39,058: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 16:18:44,059: INFO: Searching for element by xpath //*[@id='kt_header']/topbar/div/div[3]/div/div/span/span
+2024-09-13 16:18:44,078: INFO: Element by xpath //*[@id='kt_header']/topbar/div/div[3]/div/div/span/span found
+2024-09-13 16:18:44,110: INFO: Searching for element by xpath //*[@id='kt_header']/topbar/div/div[3]/div/div/span
+2024-09-13 16:18:44,127: INFO: Element by xpath //*[@id='kt_header']/topbar/div/div[3]/div/div/span found
+2024-09-13 16:18:44,158: INFO: Driver quitting
+2024-09-13 16:18:46,496: INFO: Driver quitted
+2024-09-13 16:18:48,592: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:18:50,488: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:18:53,491: INFO: Searching for element by name tenancyName
+2024-09-13 16:18:53,515: INFO: Element by name tenancyName found
+2024-09-13 16:18:53,527: INFO: None value changed
+2024-09-13 16:18:53,576: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:18:53,591: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:18:53,615: INFO: None value changed
+2024-09-13 16:18:53,653: INFO: Searching for element by name password
+2024-09-13 16:18:53,675: INFO: Element by name password found
+2024-09-13 16:18:53,709: INFO: None value changed
+2024-09-13 16:18:53,757: INFO: Searching for element by name tenancyName
+2024-09-13 16:18:53,772: INFO: Element by name tenancyName found
+2024-09-13 16:18:53,784: INFO: None value changed
+2024-09-13 16:18:53,963: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:18:53,979: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:18:54,002: INFO: None value changed
+2024-09-13 16:18:54,111: INFO: Searching for element by name password
+2024-09-13 16:18:54,127: INFO: Element by name password found
+2024-09-13 16:18:54,151: INFO: None value changed
+2024-09-13 16:18:54,233: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 16:18:54,252: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 16:18:54,289: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 16:18:54,390: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 16:18:59,391: INFO: Searching for element by xpath // *[@id = 'swal2-title']
+2024-09-13 16:18:59,417: INFO: Element by xpath // *[@id = 'swal2-title'] found
+2024-09-13 16:18:59,442: INFO: Searching for element by xpath // *[@id = 'swal2-content']
+2024-09-13 16:18:59,460: INFO: Element by xpath // *[@id = 'swal2-content'] found
+2024-09-13 16:18:59,475: INFO: Searching for element by xpath /html/body/div/div/div[3]/button[1]
+2024-09-13 16:18:59,492: INFO: Element by xpath /html/body/div/div/div[3]/button[1] found
+2024-09-13 16:18:59,531: INFO: Clicking on swal2-confirm swal2-styled
+2024-09-13 16:18:59,642: INFO: swal2-confirm swal2-styled clicked
+2024-09-13 16:19:28,687: INFO: Driver quitting
+2024-09-13 16:19:31,131: INFO: Driver quitted
+2024-09-13 16:19:33,299: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:19:35,019: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:19:38,020: INFO: Searching for element by name tenancyName
+2024-09-13 16:19:38,041: INFO: Element by name tenancyName found
+2024-09-13 16:19:38,057: INFO: None value changed
+2024-09-13 16:19:38,121: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:19:38,140: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:19:38,166: INFO: None value changed
+2024-09-13 16:19:38,199: INFO: Searching for element by name password
+2024-09-13 16:19:38,213: INFO: Element by name password found
+2024-09-13 16:19:38,234: INFO: None value changed
+2024-09-13 16:19:38,265: INFO: Searching for element by name tenancyName
+2024-09-13 16:19:38,274: INFO: Element by name tenancyName found
+2024-09-13 16:19:38,282: INFO: None value changed
+2024-09-13 16:19:38,393: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:19:38,407: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:19:38,436: INFO: None value changed
+2024-09-13 16:19:38,540: INFO: Searching for element by name password
+2024-09-13 16:19:38,554: INFO: Element by name password found
+2024-09-13 16:19:38,578: INFO: None value changed
+2024-09-13 16:19:38,651: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 16:19:38,669: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 16:19:38,697: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 16:19:38,770: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 16:19:43,772: INFO: Searching for element by xpath //*[@id = 'swal2-title']
+2024-09-13 16:19:43,790: INFO: Element by xpath //*[@id = 'swal2-title'] found
+2024-09-13 16:19:43,813: INFO: Searching for element by xpath /html/body/div/div/div[3]/button[1]
+2024-09-13 16:19:43,831: INFO: Element by xpath /html/body/div/div/div[3]/button[1] found
+2024-09-13 16:19:43,867: INFO: Clicking on swal2-confirm swal2-styled
+2024-09-13 16:19:43,973: INFO: swal2-confirm swal2-styled clicked
+2024-09-13 16:19:48,443: INFO: Driver quitting
+2024-09-13 16:19:51,176: INFO: Driver quitted
+2024-09-13 16:19:53,193: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:19:55,038: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:19:58,040: INFO: Searching for element by name tenancyName
+2024-09-13 16:19:58,068: INFO: Element by name tenancyName found
+2024-09-13 16:19:58,083: INFO: None value changed
+2024-09-13 16:19:58,138: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:19:58,156: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:19:58,183: INFO: None value changed
+2024-09-13 16:19:58,224: INFO: Searching for element by name password
+2024-09-13 16:19:58,241: INFO: Element by name password found
+2024-09-13 16:19:58,267: INFO: None value changed
+2024-09-13 16:19:58,306: INFO: Searching for element by name tenancyName
+2024-09-13 16:19:58,319: INFO: Element by name tenancyName found
+2024-09-13 16:19:58,330: INFO: None value changed
+2024-09-13 16:19:58,445: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:19:58,457: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:19:58,475: INFO: None value changed
+2024-09-13 16:19:58,551: INFO: Searching for element by name password
+2024-09-13 16:19:58,563: INFO: Element by name password found
+2024-09-13 16:19:58,580: INFO: None value changed
+2024-09-13 16:19:58,650: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 16:19:58,665: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 16:19:58,690: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 16:19:58,753: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 16:20:03,754: INFO: Searching for element by xpath //*[@id = 'swal2-title']
+2024-09-13 16:20:03,775: INFO: Element by xpath //*[@id = 'swal2-title'] found
+2024-09-13 16:20:03,794: INFO: Searching for element by xpath /html/body/div/div/div[3]/button[1]
+2024-09-13 16:20:03,808: INFO: Element by xpath /html/body/div/div/div[3]/button[1] found
+2024-09-13 16:20:03,838: INFO: Clicking on swal2-confirm swal2-styled
+2024-09-13 16:20:03,929: INFO: swal2-confirm swal2-styled clicked
+2024-09-13 16:20:04,215: INFO: Driver quitting
+2024-09-13 16:20:06,560: INFO: Driver quitted
+2024-09-13 16:26:40,422: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:26:42,524: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:26:42,525: INFO: Searching for element by name tenancyName
+2024-09-13 16:26:44,051: INFO: Element by name tenancyName found
+2024-09-13 16:26:44,068: INFO: Driver quitting
+2024-09-13 16:26:46,439: INFO: Driver quitted
+2024-09-13 16:26:48,583: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:26:50,550: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:26:50,550: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:26:51,864: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:26:51,899: INFO: Driver quitting
+2024-09-13 16:26:54,250: INFO: Driver quitted
+2024-09-13 16:26:56,205: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:26:57,711: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:26:57,711: INFO: Searching for element by name password
+2024-09-13 16:26:59,067: INFO: Element by name password found
+2024-09-13 16:26:59,104: INFO: Driver quitting
+2024-09-13 16:27:01,482: INFO: Driver quitted
+2024-09-13 16:27:03,446: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:27:05,020: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:27:05,020: INFO: Searching for element by name rememberMe
+2024-09-13 16:27:06,450: INFO: Element by name rememberMe found
+2024-09-13 16:27:06,450: INFO: Searching for element by xpath //label[contains(., 'Recuérdame')]
+2024-09-13 16:27:06,472: INFO: Element by xpath //label[contains(., 'Recuérdame')] found
+2024-09-13 16:27:06,557: INFO: Driver quitting
+2024-09-13 16:27:08,956: INFO: Driver quitted
+2024-09-13 16:27:11,015: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:27:12,592: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:27:12,592: INFO: Searching for element by link text Olvidó la contraseña?
+2024-09-13 16:27:13,952: INFO: Element by link text Olvidó la contraseña? found
+2024-09-13 16:27:14,062: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-13 16:27:14,093: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-13 16:27:14,148: INFO: Driver quitting
+2024-09-13 16:27:16,462: INFO: Driver quitted
+2024-09-13 16:27:18,492: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:27:20,035: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:27:20,036: INFO: Searching for element by link text Olvidó su espacio de trabajo?
+2024-09-13 16:27:21,383: INFO: Element by link text Olvidó su espacio de trabajo? found
+2024-09-13 16:27:21,445: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-13 16:27:21,484: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-13 16:27:21,558: INFO: Driver quitting
+2024-09-13 16:27:24,078: INFO: Driver quitted
+2024-09-13 16:27:26,086: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:27:27,915: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:27:27,916: INFO: Searching for element by name tenancyName
+2024-09-13 16:27:29,335: INFO: Element by name tenancyName found
+2024-09-13 16:27:29,353: INFO: None value changed
+2024-09-13 16:27:29,502: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:27:29,531: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:27:29,565: INFO: None value changed
+2024-09-13 16:27:29,606: INFO: Searching for element by name password
+2024-09-13 16:27:29,622: INFO: Element by name password found
+2024-09-13 16:27:29,645: INFO: None value changed
+2024-09-13 16:27:29,688: INFO: Searching for element by name tenancyName
+2024-09-13 16:27:29,700: INFO: Element by name tenancyName found
+2024-09-13 16:27:29,712: INFO: None value changed
+2024-09-13 16:27:29,954: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:27:29,972: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:27:30,001: INFO: None value changed
+2024-09-13 16:27:30,104: INFO: Searching for element by name password
+2024-09-13 16:27:30,122: INFO: Element by name password found
+2024-09-13 16:27:30,146: INFO: None value changed
+2024-09-13 16:27:30,232: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 16:27:30,252: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 16:27:30,287: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 16:27:30,374: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 16:27:35,376: INFO: Searching for element by xpath //*[@id='kt_header']/topbar/div/div[3]/div/div/span/span
+2024-09-13 16:27:35,395: INFO: Element by xpath //*[@id='kt_header']/topbar/div/div[3]/div/div/span/span found
+2024-09-13 16:27:35,430: INFO: Searching for element by xpath //*[@id='kt_header']/topbar/div/div[3]/div/div/span
+2024-09-13 16:27:35,447: INFO: Element by xpath //*[@id='kt_header']/topbar/div/div[3]/div/div/span found
+2024-09-13 16:27:35,474: INFO: Driver quitting
+2024-09-13 16:27:37,772: INFO: Driver quitted
+2024-09-13 16:27:39,843: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:27:41,352: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:27:44,354: INFO: Searching for element by name tenancyName
+2024-09-13 16:27:44,403: INFO: Element by name tenancyName found
+2024-09-13 16:27:44,420: INFO: None value changed
+2024-09-13 16:27:44,474: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:27:44,491: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:27:44,518: INFO: None value changed
+2024-09-13 16:27:44,558: INFO: Searching for element by name password
+2024-09-13 16:27:44,574: INFO: Element by name password found
+2024-09-13 16:27:44,600: INFO: None value changed
+2024-09-13 16:27:44,639: INFO: Searching for element by name tenancyName
+2024-09-13 16:27:44,651: INFO: Element by name tenancyName found
+2024-09-13 16:27:44,662: INFO: None value changed
+2024-09-13 16:27:44,780: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:27:44,792: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:27:44,817: INFO: None value changed
+2024-09-13 16:27:44,898: INFO: Searching for element by name password
+2024-09-13 16:27:44,912: INFO: Element by name password found
+2024-09-13 16:27:44,931: INFO: None value changed
+2024-09-13 16:27:44,999: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 16:27:45,014: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 16:27:45,038: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 16:27:45,101: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 16:27:50,103: INFO: Searching for element by xpath // *[@id = 'swal2-title']
+2024-09-13 16:27:50,122: INFO: Element by xpath // *[@id = 'swal2-title'] found
+2024-09-13 16:27:50,144: INFO: Searching for element by xpath // *[@id = 'swal2-content']
+2024-09-13 16:27:50,161: INFO: Element by xpath // *[@id = 'swal2-content'] found
+2024-09-13 16:27:50,175: INFO: Searching for element by xpath /html/body/div/div/div[3]/button[1]
+2024-09-13 16:27:50,196: INFO: Element by xpath /html/body/div/div/div[3]/button[1] found
+2024-09-13 16:27:50,235: INFO: Clicking on swal2-confirm swal2-styled
+2024-09-13 16:27:50,340: INFO: swal2-confirm swal2-styled clicked
+2024-09-13 16:28:15,242: INFO: Driver quitting
+2024-09-13 16:28:17,573: INFO: Driver quitted
+2024-09-13 16:28:19,627: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:28:21,331: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:28:24,333: INFO: Searching for element by name tenancyName
+2024-09-13 16:28:24,354: INFO: Element by name tenancyName found
+2024-09-13 16:28:24,366: INFO: None value changed
+2024-09-13 16:28:24,424: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:28:24,438: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:28:24,460: INFO: None value changed
+2024-09-13 16:28:24,492: INFO: Searching for element by name password
+2024-09-13 16:28:24,506: INFO: Element by name password found
+2024-09-13 16:28:24,526: INFO: None value changed
+2024-09-13 16:28:24,558: INFO: Searching for element by name tenancyName
+2024-09-13 16:28:24,568: INFO: Element by name tenancyName found
+2024-09-13 16:28:24,576: INFO: None value changed
+2024-09-13 16:28:24,694: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:28:24,707: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:28:24,728: INFO: None value changed
+2024-09-13 16:28:24,812: INFO: Searching for element by name password
+2024-09-13 16:28:24,825: INFO: Element by name password found
+2024-09-13 16:28:24,843: INFO: None value changed
+2024-09-13 16:28:24,908: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 16:28:24,923: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 16:28:24,949: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 16:28:25,019: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 16:28:30,021: INFO: Searching for element by xpath //*[@id = 'swal2-title']
+2024-09-13 16:28:30,040: INFO: Element by xpath //*[@id = 'swal2-title'] found
+2024-09-13 16:28:30,063: INFO: Searching for element by xpath /html/body/div/div/div[3]/button[1]
+2024-09-13 16:28:30,084: INFO: Element by xpath /html/body/div/div/div[3]/button[1] found
+2024-09-13 16:28:30,118: INFO: Clicking on swal2-confirm swal2-styled
+2024-09-13 16:28:30,207: INFO: swal2-confirm swal2-styled clicked
+2024-09-13 16:28:30,209: INFO: Driver quitting
+2024-09-13 16:28:32,633: INFO: Driver quitted
+2024-09-13 16:28:34,876: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:28:36,740: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:28:39,741: INFO: Searching for element by name tenancyName
+2024-09-13 16:28:39,778: INFO: Element by name tenancyName found
+2024-09-13 16:28:39,793: INFO: None value changed
+2024-09-13 16:28:39,847: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:28:39,864: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:28:39,892: INFO: None value changed
+2024-09-13 16:28:39,936: INFO: Searching for element by name password
+2024-09-13 16:28:39,955: INFO: Element by name password found
+2024-09-13 16:28:39,983: INFO: None value changed
+2024-09-13 16:28:40,025: INFO: Searching for element by name tenancyName
+2024-09-13 16:28:40,034: INFO: Element by name tenancyName found
+2024-09-13 16:28:40,042: INFO: None value changed
+2024-09-13 16:28:40,149: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:28:40,160: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:28:40,177: INFO: None value changed
+2024-09-13 16:28:40,266: INFO: Searching for element by name password
+2024-09-13 16:28:40,278: INFO: Element by name password found
+2024-09-13 16:28:40,296: INFO: None value changed
+2024-09-13 16:28:40,388: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 16:28:40,412: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 16:28:40,449: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 16:28:40,529: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 16:28:45,531: INFO: Searching for element by xpath //*[@id = 'swal2-title']
+2024-09-13 16:28:45,548: INFO: Element by xpath //*[@id = 'swal2-title'] found
+2024-09-13 16:28:45,568: INFO: Searching for element by xpath /html/body/div/div/div[3]/button[1]
+2024-09-13 16:28:45,586: INFO: Element by xpath /html/body/div/div/div[3]/button[1] found
+2024-09-13 16:28:45,623: INFO: Clicking on swal2-confirm swal2-styled
+2024-09-13 16:28:45,714: INFO: swal2-confirm swal2-styled clicked
+2024-09-13 16:28:45,716: INFO: Driver quitting
+2024-09-13 16:28:48,073: INFO: Driver quitted
+2024-09-13 16:33:55,053: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:33:57,660: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:33:57,660: INFO: Searching for element by name tenancyName
+2024-09-13 16:33:59,135: INFO: Element by name tenancyName found
+2024-09-13 16:33:59,148: INFO: Driver quitting
+2024-09-13 16:34:01,621: INFO: Driver quitted
+2024-09-13 16:34:03,710: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:34:05,475: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:34:05,475: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:34:06,926: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:34:06,963: INFO: Driver quitting
+2024-09-13 16:34:09,288: INFO: Driver quitted
+2024-09-13 16:34:11,326: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:34:12,880: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:34:12,880: INFO: Searching for element by name password
+2024-09-13 16:34:14,242: INFO: Element by name password found
+2024-09-13 16:34:14,296: INFO: Driver quitting
+2024-09-13 16:34:16,645: INFO: Driver quitted
+2024-09-13 16:34:18,609: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:34:20,380: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:34:20,380: INFO: Searching for element by name rememberMe
+2024-09-13 16:34:21,578: INFO: Element by name rememberMe found
+2024-09-13 16:34:21,578: INFO: Searching for element by xpath //label[contains(., 'Recuérdame')]
+2024-09-13 16:34:21,596: INFO: Element by xpath //label[contains(., 'Recuérdame')] found
+2024-09-13 16:34:21,676: INFO: Driver quitting
+2024-09-13 16:34:24,011: INFO: Driver quitted
+2024-09-13 16:34:25,993: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:34:27,709: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:34:27,709: INFO: Searching for element by link text Olvidó la contraseña?
+2024-09-13 16:34:29,251: INFO: Element by link text Olvidó la contraseña? found
+2024-09-13 16:34:29,324: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-13 16:34:29,346: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-13 16:34:29,386: INFO: Driver quitting
+2024-09-13 16:34:31,677: INFO: Driver quitted
+2024-09-13 16:34:33,637: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:34:35,195: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:34:35,195: INFO: Searching for element by link text Olvidó su espacio de trabajo?
+2024-09-13 16:34:36,855: INFO: Element by link text Olvidó su espacio de trabajo? found
+2024-09-13 16:34:36,910: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-13 16:34:36,950: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-13 16:34:37,012: INFO: Driver quitting
+2024-09-13 16:34:39,532: INFO: Driver quitted
+2024-09-13 16:34:41,510: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:34:43,077: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:34:43,077: INFO: Searching for element by name tenancyName
+2024-09-13 16:34:44,330: INFO: Element by name tenancyName found
+2024-09-13 16:34:44,341: INFO: None value changed
+2024-09-13 16:34:44,473: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:34:44,495: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:34:44,524: INFO: None value changed
+2024-09-13 16:34:44,561: INFO: Searching for element by name password
+2024-09-13 16:34:44,578: INFO: Element by name password found
+2024-09-13 16:34:44,600: INFO: None value changed
+2024-09-13 16:34:44,643: INFO: Searching for element by name tenancyName
+2024-09-13 16:34:44,657: INFO: Element by name tenancyName found
+2024-09-13 16:34:44,668: INFO: None value changed
+2024-09-13 16:34:44,854: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:34:44,865: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:34:44,882: INFO: None value changed
+2024-09-13 16:34:44,958: INFO: Searching for element by name password
+2024-09-13 16:34:44,971: INFO: Element by name password found
+2024-09-13 16:34:44,988: INFO: None value changed
+2024-09-13 16:34:45,053: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 16:34:45,069: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 16:34:45,093: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 16:34:45,157: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 16:34:45,157: INFO: Searching for element by xpath //*[@id='kt_header']/topbar/div/div[3]/div/div/span/span
+2024-09-13 16:34:47,846: INFO: Element by xpath //*[@id='kt_header']/topbar/div/div[3]/div/div/span/span found
+2024-09-13 16:34:47,890: INFO: Searching for element by xpath //*[@id='kt_header']/topbar/div/div[3]/div/div/span
+2024-09-13 16:34:47,922: INFO: Element by xpath //*[@id='kt_header']/topbar/div/div[3]/div/div/span found
+2024-09-13 16:34:48,100: INFO: Driver quitting
+2024-09-13 16:34:50,437: INFO: Driver quitted
+2024-09-13 16:34:52,492: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:34:54,012: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:34:57,013: INFO: Searching for element by name tenancyName
+2024-09-13 16:34:57,042: INFO: Element by name tenancyName found
+2024-09-13 16:34:57,060: INFO: None value changed
+2024-09-13 16:34:57,115: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:34:57,132: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:34:57,160: INFO: None value changed
+2024-09-13 16:34:57,200: INFO: Searching for element by name password
+2024-09-13 16:34:57,217: INFO: Element by name password found
+2024-09-13 16:34:57,243: INFO: None value changed
+2024-09-13 16:34:57,282: INFO: Searching for element by name tenancyName
+2024-09-13 16:34:57,294: INFO: Element by name tenancyName found
+2024-09-13 16:34:57,305: INFO: None value changed
+2024-09-13 16:34:57,418: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:34:57,431: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:34:57,455: INFO: None value changed
+2024-09-13 16:34:57,540: INFO: Searching for element by name password
+2024-09-13 16:34:57,552: INFO: Element by name password found
+2024-09-13 16:34:57,569: INFO: None value changed
+2024-09-13 16:34:57,632: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 16:34:57,647: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 16:34:57,671: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 16:34:57,741: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 16:35:02,743: INFO: Searching for element by xpath // *[@id = 'swal2-title']
+2024-09-13 16:35:02,767: INFO: Element by xpath // *[@id = 'swal2-title'] found
+2024-09-13 16:35:02,792: INFO: Searching for element by xpath // *[@id = 'swal2-content']
+2024-09-13 16:35:02,808: INFO: Element by xpath // *[@id = 'swal2-content'] found
+2024-09-13 16:35:02,821: INFO: Searching for element by xpath /html/body/div/div/div[3]/button[1]
+2024-09-13 16:35:02,837: INFO: Element by xpath /html/body/div/div/div[3]/button[1] found
+2024-09-13 16:35:02,867: INFO: Clicking on swal2-confirm swal2-styled
+2024-09-13 16:35:02,930: INFO: swal2-confirm swal2-styled clicked
+2024-09-13 16:35:02,932: INFO: Driver quitting
+2024-09-13 16:35:05,540: INFO: Driver quitted
+2024-09-13 16:35:32,059: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:35:34,097: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:35:34,097: INFO: Searching for element by name tenancyName
+2024-09-13 16:35:35,699: INFO: Element by name tenancyName found
+2024-09-13 16:35:35,718: INFO: None value changed
+2024-09-13 16:35:35,843: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:35:35,867: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:35:35,903: INFO: None value changed
+2024-09-13 16:35:35,959: INFO: Searching for element by name password
+2024-09-13 16:35:35,983: INFO: Element by name password found
+2024-09-13 16:35:36,013: INFO: None value changed
+2024-09-13 16:35:36,054: INFO: Searching for element by name tenancyName
+2024-09-13 16:35:36,066: INFO: Element by name tenancyName found
+2024-09-13 16:35:36,076: INFO: None value changed
+2024-09-13 16:35:36,290: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:35:36,306: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:35:36,328: INFO: None value changed
+2024-09-13 16:35:36,425: INFO: Searching for element by name password
+2024-09-13 16:35:36,439: INFO: Element by name password found
+2024-09-13 16:35:36,460: INFO: None value changed
+2024-09-13 16:35:36,541: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 16:35:36,556: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 16:35:36,580: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 16:35:36,645: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 16:35:36,645: INFO: Searching for element by xpath //*[@id = 'swal2-title']
+2024-09-13 16:35:36,859: INFO: Element by xpath //*[@id = 'swal2-title'] found
+2024-09-13 16:35:36,884: INFO: Searching for element by xpath /html/body/div/div/div[3]/button[1]
+2024-09-13 16:35:36,904: INFO: Element by xpath /html/body/div/div/div[3]/button[1] found
+2024-09-13 16:35:36,940: INFO: Clicking on swal2-confirm swal2-styled
+2024-09-13 16:35:37,030: INFO: swal2-confirm swal2-styled clicked
+2024-09-13 16:35:37,033: INFO: Driver quitting
+2024-09-13 16:35:39,415: INFO: Driver quitted
+2024-09-13 16:35:41,411: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-13 16:35:43,083: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-13 16:35:43,083: INFO: Searching for element by name tenancyName
+2024-09-13 16:35:45,026: INFO: Element by name tenancyName found
+2024-09-13 16:35:45,037: INFO: None value changed
+2024-09-13 16:35:45,225: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:35:45,241: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:35:45,266: INFO: None value changed
+2024-09-13 16:35:45,303: INFO: Searching for element by name password
+2024-09-13 16:35:45,322: INFO: Element by name password found
+2024-09-13 16:35:45,349: INFO: None value changed
+2024-09-13 16:35:45,462: INFO: Searching for element by name tenancyName
+2024-09-13 16:35:45,477: INFO: Element by name tenancyName found
+2024-09-13 16:35:45,486: INFO: None value changed
+2024-09-13 16:35:45,595: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 16:35:45,610: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 16:35:45,628: INFO: None value changed
+2024-09-13 16:35:45,702: INFO: Searching for element by name password
+2024-09-13 16:35:45,714: INFO: Element by name password found
+2024-09-13 16:35:45,731: INFO: None value changed
+2024-09-13 16:35:45,795: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 16:35:45,810: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 16:35:45,834: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 16:35:45,898: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 16:35:45,898: INFO: Searching for element by xpath //*[@id = 'swal2-title']
+2024-09-13 16:35:46,100: INFO: Element by xpath //*[@id = 'swal2-title'] found
+2024-09-13 16:35:46,122: INFO: Searching for element by xpath /html/body/div/div/div[3]/button[1]
+2024-09-13 16:35:46,138: INFO: Element by xpath /html/body/div/div/div[3]/button[1] found
+2024-09-13 16:35:46,172: INFO: Clicking on swal2-confirm swal2-styled
+2024-09-13 16:35:46,250: INFO: swal2-confirm swal2-styled clicked
+2024-09-13 16:35:46,252: INFO: Driver quitting
+2024-09-13 16:35:48,573: INFO: Driver quitted
+2024-09-13 16:46:46,679: INFO: Driver quitting
+2024-09-13 16:46:48,970: INFO: Driver quitted
+2024-09-13 16:46:51,218: INFO: Driver quitting
+2024-09-13 16:46:53,485: INFO: Driver quitted

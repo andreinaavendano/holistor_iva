@@ -1,0 +1,744 @@
+2024-09-13 13:46:53,896: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:46:54,409: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:46:57,411: INFO: Searching for element by name tenancyName
+2024-09-13 13:46:58,017: INFO: Element by name tenancyName found
+2024-09-13 13:46:58,060: INFO: Driver quitting
+2024-09-13 13:47:00,691: INFO: Driver quitted
+2024-09-13 13:47:03,029: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:47:04,816: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:47:07,818: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:47:07,841: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:47:07,879: INFO: Driver quitting
+2024-09-13 13:47:10,544: INFO: Driver quitted
+2024-09-13 13:47:12,850: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:47:15,014: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:47:18,015: INFO: Searching for element by name password
+2024-09-13 13:47:18,036: INFO: Element by name password found
+2024-09-13 13:47:18,073: INFO: Driver quitting
+2024-09-13 13:47:20,530: INFO: Driver quitted
+2024-09-13 13:47:22,779: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:47:23,137: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:47:26,138: INFO: Searching for element by name rememberMe
+2024-09-13 13:47:26,248: INFO: Element by name rememberMe found
+2024-09-13 13:47:26,248: INFO: Searching for element by xpath //label[contains(., 'Recuérdame')]
+2024-09-13 13:47:26,273: INFO: Element by xpath //label[contains(., 'Recuérdame')] found
+2024-09-13 13:47:26,336: INFO: Driver quitting
+2024-09-13 13:47:29,106: INFO: Driver quitted
+2024-09-13 13:47:31,356: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:47:31,747: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:47:34,749: INFO: Searching for element by link text Olvidó la contraseña?
+2024-09-13 13:47:34,803: INFO: Element by link text Olvidó la contraseña? found
+2024-09-13 13:47:34,876: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-13 13:47:34,901: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-13 13:47:35,023: INFO: Driver quitting
+2024-09-13 13:47:37,942: INFO: Driver quitted
+2024-09-13 13:47:40,162: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:47:40,561: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:47:43,562: INFO: Searching for element by link text Olvidó su espacio de trabajo?
+2024-09-13 13:47:43,670: INFO: Element by link text Olvidó su espacio de trabajo? found
+2024-09-13 13:47:43,817: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-13 13:47:43,849: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-13 13:47:43,930: INFO: Driver quitting
+2024-09-13 13:47:46,571: INFO: Driver quitted
+2024-09-13 13:47:49,424: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:47:51,591: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:47:54,592: INFO: Searching for element by name tenancyName
+2024-09-13 13:47:54,612: INFO: Element by name tenancyName found
+2024-09-13 13:47:54,626: INFO: None value changed
+2024-09-13 13:47:54,692: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:47:54,711: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:47:54,741: INFO: None value changed
+2024-09-13 13:47:54,774: INFO: Searching for element by name password
+2024-09-13 13:47:54,787: INFO: Element by name password found
+2024-09-13 13:47:54,808: INFO: None value changed
+2024-09-13 13:47:54,843: INFO: Searching for element by name tenancyName
+2024-09-13 13:47:54,858: INFO: Element by name tenancyName found
+2024-09-13 13:47:54,872: INFO: None value changed
+2024-09-13 13:47:55,070: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:47:55,087: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:47:55,115: INFO: None value changed
+2024-09-13 13:47:55,213: INFO: Searching for element by name password
+2024-09-13 13:47:55,230: INFO: Element by name password found
+2024-09-13 13:47:55,255: INFO: None value changed
+2024-09-13 13:47:55,348: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 13:47:55,365: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 13:47:55,393: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 13:47:55,461: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 13:48:00,463: INFO: Searching for element by xpath //*[@id='kt_header']/topbar/div/div[3]/div/div/span/span
+2024-09-13 13:48:10,507: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='kt_header']/topbar/div/div[3]/div/div/span/span"}
+  (Session info: chrome=128.0.6613.120); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF30EFE7]
+	(No symbol) [0x00007FF6AF30F23C]
+	(No symbol) [0x00007FF6AF3597C7]
+	(No symbol) [0x00007FF6AF33672F]
+	(No symbol) [0x00007FF6AF3565A2]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 13:48:31,929: INFO: Driver quitting
+2024-09-13 13:48:34,419: INFO: Driver quitted
+2024-09-13 13:48:36,787: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:48:38,755: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:48:41,756: INFO: Searching for element by name tenancyName
+2024-09-13 13:48:41,820: INFO: Element by name tenancyName found
+2024-09-13 13:48:41,842: INFO: None value changed
+2024-09-13 13:48:41,918: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:48:41,939: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:48:41,974: INFO: None value changed
+2024-09-13 13:48:42,024: INFO: Searching for element by name password
+2024-09-13 13:48:42,048: INFO: Element by name password found
+2024-09-13 13:48:42,077: INFO: None value changed
+2024-09-13 13:48:42,121: INFO: Searching for element by name tenancyName
+2024-09-13 13:48:42,131: INFO: Element by name tenancyName found
+2024-09-13 13:48:42,140: INFO: None value changed
+2024-09-13 13:48:42,268: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:48:42,287: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:48:42,316: INFO: None value changed
+2024-09-13 13:48:42,404: INFO: Searching for element by name password
+2024-09-13 13:48:42,420: INFO: Element by name password found
+2024-09-13 13:48:42,451: INFO: None value changed
+2024-09-13 13:48:42,563: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 13:48:42,590: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 13:48:42,633: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 13:48:42,738: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 13:48:47,740: INFO: Searching for element by xpath // *[@id = 'swal2-title']
+2024-09-13 13:48:47,769: INFO: Element by xpath // *[@id = 'swal2-title'] found
+2024-09-13 13:48:48,009: INFO: Driver quitting
+2024-09-13 13:48:50,673: INFO: Driver quitted
+2024-09-13 13:48:52,976: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:48:54,882: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:48:57,884: INFO: Searching for element by name tenancyName
+2024-09-13 13:48:57,908: INFO: Element by name tenancyName found
+2024-09-13 13:48:57,923: INFO: None value changed
+2024-09-13 13:48:57,987: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:48:58,003: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:48:58,024: INFO: None value changed
+2024-09-13 13:48:58,055: INFO: Searching for element by name password
+2024-09-13 13:48:58,068: INFO: Element by name password found
+2024-09-13 13:48:58,087: INFO: None value changed
+2024-09-13 13:48:58,117: INFO: Searching for element by name tenancyName
+2024-09-13 13:48:58,126: INFO: Element by name tenancyName found
+2024-09-13 13:48:58,134: INFO: None value changed
+2024-09-13 13:48:58,275: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:48:58,293: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:48:58,324: INFO: None value changed
+2024-09-13 13:48:58,460: INFO: Searching for element by name password
+2024-09-13 13:48:58,477: INFO: Element by name password found
+2024-09-13 13:48:58,504: INFO: None value changed
+2024-09-13 13:48:58,601: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 13:48:58,625: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 13:48:58,671: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 13:48:58,779: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 13:49:03,780: INFO: Searching for element by xpath //*[@id = 'swal2-title']
+2024-09-13 13:49:03,798: INFO: Element by xpath //*[@id = 'swal2-title'] found
+2024-09-13 13:49:03,821: INFO: Searching for element by xpath /html/body/div/div/div[3]/button[1]
+2024-09-13 13:49:03,842: INFO: Element by xpath /html/body/div/div/div[3]/button[1] found
+2024-09-13 13:49:03,890: INFO: Clicking on swal2-confirm swal2-styled
+2024-09-13 13:49:04,032: INFO: swal2-confirm swal2-styled clicked
+2024-09-13 13:49:04,056: INFO: Driver quitting
+2024-09-13 13:49:08,286: INFO: Driver quitted
+2024-09-13 13:49:10,590: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:49:12,454: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:49:15,455: INFO: Searching for element by name tenancyName
+2024-09-13 13:49:15,473: INFO: Element by name tenancyName found
+2024-09-13 13:49:15,487: INFO: None value changed
+2024-09-13 13:49:15,555: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:49:15,579: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:49:15,617: INFO: None value changed
+2024-09-13 13:49:15,669: INFO: Searching for element by name password
+2024-09-13 13:49:15,694: INFO: Element by name password found
+2024-09-13 13:49:15,726: INFO: None value changed
+2024-09-13 13:49:15,778: INFO: Searching for element by name tenancyName
+2024-09-13 13:49:15,793: INFO: Element by name tenancyName found
+2024-09-13 13:49:15,806: INFO: None value changed
+2024-09-13 13:49:15,954: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:49:15,970: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:49:16,000: INFO: None value changed
+2024-09-13 13:49:16,198: INFO: Searching for element by name password
+2024-09-13 13:49:16,221: INFO: Element by name password found
+2024-09-13 13:49:16,276: INFO: None value changed
+2024-09-13 13:49:16,380: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 13:49:16,403: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 13:49:16,446: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 13:49:16,555: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 13:49:21,562: INFO: Searching for element by xpath //*[@id = 'swal2-title']
+2024-09-13 13:49:21,751: INFO: Element by xpath //*[@id = 'swal2-title'] found
+2024-09-13 13:49:21,786: INFO: Searching for element by xpath /html/body/div/div/div[3]/button[1]
+2024-09-13 13:49:21,812: INFO: Element by xpath /html/body/div/div/div[3]/button[1] found
+2024-09-13 13:49:21,880: INFO: Clicking on swal2-confirm swal2-styled
+2024-09-13 13:49:22,214: INFO: swal2-confirm swal2-styled clicked
+2024-09-13 13:49:22,245: INFO: Driver quitting
+2024-09-13 13:49:26,216: INFO: Driver quitted
+2024-09-13 13:51:16,890: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:51:18,677: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:51:21,678: INFO: Searching for element by name tenancyName
+2024-09-13 13:51:21,719: INFO: Element by name tenancyName found
+2024-09-13 13:51:21,740: INFO: Driver quitting
+2024-09-13 13:51:24,083: INFO: Driver quitted
+2024-09-13 13:51:26,178: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:51:27,902: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:51:30,903: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:51:30,925: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:51:30,963: INFO: Driver quitting
+2024-09-13 13:51:33,304: INFO: Driver quitted
+2024-09-13 13:51:35,388: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:51:37,013: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:51:40,014: INFO: Searching for element by name password
+2024-09-13 13:51:40,043: INFO: Element by name password found
+2024-09-13 13:51:40,077: INFO: Driver quitting
+2024-09-13 13:51:42,464: INFO: Driver quitted
+2024-09-13 13:51:44,360: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:51:45,883: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:51:48,884: INFO: Searching for element by name rememberMe
+2024-09-13 13:51:48,929: INFO: Element by name rememberMe found
+2024-09-13 13:51:48,930: INFO: Searching for element by xpath //label[contains(., 'Recuérdame')]
+2024-09-13 13:51:48,950: INFO: Element by xpath //label[contains(., 'Recuérdame')] found
+2024-09-13 13:51:48,989: INFO: Driver quitting
+2024-09-13 13:51:51,462: INFO: Driver quitted
+2024-09-13 13:51:53,502: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:51:55,506: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:51:58,507: INFO: Searching for element by link text Olvidó la contraseña?
+2024-09-13 13:51:58,525: INFO: Element by link text Olvidó la contraseña? found
+2024-09-13 13:51:58,556: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-13 13:51:58,570: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-13 13:51:58,607: INFO: Driver quitting
+2024-09-13 13:52:01,114: INFO: Driver quitted
+2024-09-13 13:52:03,177: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:52:05,054: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:52:08,055: INFO: Searching for element by link text Olvidó su espacio de trabajo?
+2024-09-13 13:52:08,083: INFO: Element by link text Olvidó su espacio de trabajo? found
+2024-09-13 13:52:08,129: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-13 13:52:08,151: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-13 13:52:08,190: INFO: Driver quitting
+2024-09-13 13:52:10,486: INFO: Driver quitted
+2024-09-13 13:52:12,496: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:52:14,066: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:52:17,067: INFO: Searching for element by name tenancyName
+2024-09-13 13:52:17,119: INFO: Element by name tenancyName found
+2024-09-13 13:52:17,141: INFO: None value changed
+2024-09-13 13:52:17,223: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:52:17,240: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:52:17,271: INFO: None value changed
+2024-09-13 13:52:17,308: INFO: Searching for element by name password
+2024-09-13 13:52:17,325: INFO: Element by name password found
+2024-09-13 13:52:17,351: INFO: None value changed
+2024-09-13 13:52:17,385: INFO: Searching for element by name tenancyName
+2024-09-13 13:52:17,394: INFO: Element by name tenancyName found
+2024-09-13 13:52:17,401: INFO: None value changed
+2024-09-13 13:52:17,519: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:52:17,530: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:52:17,547: INFO: None value changed
+2024-09-13 13:52:17,624: INFO: Searching for element by name password
+2024-09-13 13:52:17,639: INFO: Element by name password found
+2024-09-13 13:52:17,657: INFO: None value changed
+2024-09-13 13:52:17,725: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 13:52:17,741: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 13:52:17,765: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 13:52:17,843: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 13:52:22,845: INFO: Searching for element by xpath //*[@id='kt_header']/topbar/div/div[3]/div/div/span/span
+2024-09-13 13:52:29,475: INFO: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+2024-09-13 13:52:58,628: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020CEF9D5EE0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/2467782e1966d92637b2e56ddb74b202/screenshot
+2024-09-13 13:53:02,725: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020CEF9D47A0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/2467782e1966d92637b2e56ddb74b202/screenshot
+2024-09-13 13:53:06,805: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020CEF9D57C0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/2467782e1966d92637b2e56ddb74b202/screenshot
+2024-09-13 13:53:10,875: INFO: HTTPConnectionPool(host='localhost', port=58305): Max retries exceeded with url: /session/2467782e1966d92637b2e56ddb74b202/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020CEF9D5550>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2024-09-13 13:53:13,155: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:53:14,679: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:53:17,681: INFO: Searching for element by name tenancyName
+2024-09-13 13:53:17,699: INFO: Element by name tenancyName found
+2024-09-13 13:53:17,712: INFO: None value changed
+2024-09-13 13:53:17,772: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:53:17,787: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:53:17,817: INFO: None value changed
+2024-09-13 13:53:17,858: INFO: Searching for element by name password
+2024-09-13 13:53:17,879: INFO: Element by name password found
+2024-09-13 13:53:17,903: INFO: None value changed
+2024-09-13 13:53:17,939: INFO: Searching for element by name tenancyName
+2024-09-13 13:53:17,951: INFO: Element by name tenancyName found
+2024-09-13 13:53:17,960: INFO: None value changed
+2024-09-13 13:53:18,065: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:53:18,076: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:53:18,092: INFO: None value changed
+2024-09-13 13:53:18,158: INFO: Searching for element by name password
+2024-09-13 13:53:18,173: INFO: Element by name password found
+2024-09-13 13:53:18,191: INFO: None value changed
+2024-09-13 13:53:18,253: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 13:53:18,268: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 13:53:18,293: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 13:53:18,363: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 13:53:23,363: INFO: Searching for element by xpath // *[@id = 'swal2-title']
+2024-09-13 13:53:23,367: INFO: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF28FAF5]
+	(No symbol) [0x00007FF6AF33E2C7]
+	(No symbol) [0x00007FF6AF355EB1]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 13:53:23,466: INFO: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF28FAF5]
+	(No symbol) [0x00007FF6AF33E2C7]
+	(No symbol) [0x00007FF6AF355EB1]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 13:53:25,512: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:53:25,840: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:53:28,856: INFO: Searching for element by name tenancyName
+2024-09-13 13:53:28,885: INFO: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF28FAF5]
+	(No symbol) [0x00007FF6AF33E2C7]
+	(No symbol) [0x00007FF6AF355EB1]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 13:53:29,094: INFO: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF28FAF5]
+	(No symbol) [0x00007FF6AF33E2C7]
+	(No symbol) [0x00007FF6AF355EB1]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 13:53:31,302: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 13:53:32,902: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 13:53:35,904: INFO: Searching for element by name tenancyName
+2024-09-13 13:53:35,921: INFO: Element by name tenancyName found
+2024-09-13 13:53:35,934: INFO: None value changed
+2024-09-13 13:53:35,990: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:53:36,006: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:53:36,028: INFO: None value changed
+2024-09-13 13:53:36,061: INFO: Searching for element by name password
+2024-09-13 13:53:36,075: INFO: Element by name password found
+2024-09-13 13:53:36,098: INFO: None value changed
+2024-09-13 13:53:36,136: INFO: Searching for element by name tenancyName
+2024-09-13 13:53:36,149: INFO: Element by name tenancyName found
+2024-09-13 13:53:36,159: INFO: None value changed
+2024-09-13 13:53:36,278: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 13:53:36,293: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 13:53:36,315: INFO: None value changed
+2024-09-13 13:53:36,419: INFO: Searching for element by name password
+2024-09-13 13:53:36,436: INFO: Element by name password found
+2024-09-13 13:53:36,462: INFO: None value changed
+2024-09-13 13:53:36,559: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 13:53:36,583: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 13:53:36,622: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 13:53:36,731: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 13:53:41,733: INFO: Searching for element by xpath //*[@id = 'swal2-title']
+2024-09-13 13:53:41,736: INFO: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF28FAF5]
+	(No symbol) [0x00007FF6AF33E2C7]
+	(No symbol) [0x00007FF6AF355EB1]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 13:53:41,821: INFO: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF28FAF5]
+	(No symbol) [0x00007FF6AF33E2C7]
+	(No symbol) [0x00007FF6AF355EB1]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 13:59:59,554: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:00:01,954: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:00:04,013: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:00:06,117: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:00:08,493: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:00:11,203: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:00:27,453: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:00:29,562: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:00:32,189: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:00:34,798: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:08:51,499: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:08:53,861: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:08:55,849: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:08:58,105: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:09:00,611: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:09:02,895: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:09:16,337: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:09:18,801: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:09:20,979: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:09:23,302: INFO: 'WebDriver' object has no attribute 'driver'
+2024-09-13 14:10:39,927: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 14:10:42,498: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 14:10:45,499: INFO: Searching for element by name tenancyName
+2024-09-13 14:10:45,542: INFO: Element by name tenancyName found
+2024-09-13 14:10:45,564: INFO: Driver quitting
+2024-09-13 14:10:47,866: INFO: Driver quitted
+2024-09-13 14:10:49,715: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 14:10:51,109: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 14:10:54,110: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 14:10:54,173: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 14:10:54,237: INFO: Driver quitting
+2024-09-13 14:10:56,536: INFO: Driver quitted
+2024-09-13 14:10:58,413: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 14:10:59,901: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 14:11:02,903: INFO: Searching for element by name password
+2024-09-13 14:11:02,921: INFO: Element by name password found
+2024-09-13 14:11:02,957: INFO: Driver quitting
+2024-09-13 14:11:05,212: INFO: Driver quitted
+2024-09-13 14:11:07,133: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 14:11:08,753: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 14:11:11,755: INFO: Searching for element by name rememberMe
+2024-09-13 14:11:11,785: INFO: Element by name rememberMe found
+2024-09-13 14:11:11,785: INFO: Searching for element by xpath //label[contains(., 'Recuérdame')]
+2024-09-13 14:11:11,805: INFO: Element by xpath //label[contains(., 'Recuérdame')] found
+2024-09-13 14:11:11,842: INFO: Driver quitting
+2024-09-13 14:11:14,153: INFO: Driver quitted
+2024-09-13 14:11:16,015: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 14:11:16,367: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 14:11:19,368: INFO: Searching for element by link text Olvidó la contraseña?
+2024-09-13 14:11:19,388: INFO: Element by link text Olvidó la contraseña? found
+2024-09-13 14:11:19,426: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-13 14:11:19,446: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-13 14:11:19,486: INFO: Driver quitting
+2024-09-13 14:11:21,760: INFO: Driver quitted
+2024-09-13 14:11:23,642: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 14:11:25,112: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 14:11:28,114: INFO: Searching for element by link text Olvidó su espacio de trabajo?
+2024-09-13 14:11:28,138: INFO: Element by link text Olvidó su espacio de trabajo? found
+2024-09-13 14:11:28,173: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-13 14:11:28,190: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-13 14:11:28,232: INFO: Driver quitting
+2024-09-13 14:11:30,481: INFO: Driver quitted
+2024-09-13 14:11:32,342: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 14:11:33,734: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 14:11:36,735: INFO: Searching for element by name tenancyName
+2024-09-13 14:11:36,772: INFO: Element by name tenancyName found
+2024-09-13 14:11:36,788: INFO: None value changed
+2024-09-13 14:11:36,843: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 14:11:36,860: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 14:11:36,887: INFO: None value changed
+2024-09-13 14:11:36,928: INFO: Searching for element by name password
+2024-09-13 14:11:36,943: INFO: Element by name password found
+2024-09-13 14:11:36,968: INFO: None value changed
+2024-09-13 14:11:37,009: INFO: Searching for element by name tenancyName
+2024-09-13 14:11:37,020: INFO: Element by name tenancyName found
+2024-09-13 14:11:37,031: INFO: None value changed
+2024-09-13 14:11:37,152: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-13 14:11:37,163: INFO: Element by name userNameOrEmailAddress found
+2024-09-13 14:11:37,181: INFO: None value changed
+2024-09-13 14:11:37,259: INFO: Searching for element by name password
+2024-09-13 14:11:37,271: INFO: Element by name password found
+2024-09-13 14:11:37,291: INFO: None value changed
+2024-09-13 14:11:37,358: INFO: Searching for element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button
+2024-09-13 14:11:37,374: INFO: Element by xpath //*[@id='kt_login']/div/div[2]/div[2]/ng-component/div/form/div[5]/div[2]/button found
+2024-09-13 14:11:37,401: INFO: Clicking on btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted
+2024-09-13 14:11:37,464: INFO: btn btn-primary btn-elevate kt-login__btn-primary ng-tns-c3-1 ng-star-inserted clicked
+2024-09-13 14:11:42,467: INFO: Searching for element by xpath //*[@id='kt_header']/topbar/div/div[3]/div/div/span/span
+2024-09-13 14:11:54,203: INFO: ('Connection aborted.', ConnectionResetError(10054, 'Se ha forzado la interrupción de una conexión existente por el host remoto', None, 10054, None))
+2024-09-13 14:12:23,345: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000215D6937FB0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/be89e78d043cc85af3b914870c011fab/screenshot
+2024-09-13 14:12:27,400: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000215D6915190>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/be89e78d043cc85af3b914870c011fab/screenshot
+2024-09-13 14:12:31,463: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000215D69D7B00>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/be89e78d043cc85af3b914870c011fab/screenshot
+2024-09-13 14:12:35,524: INFO: HTTPConnectionPool(host='localhost', port=59051): Max retries exceeded with url: /session/be89e78d043cc85af3b914870c011fab/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000215D69D7FB0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2024-09-13 14:12:38,628: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 14:12:40,302: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 14:12:43,303: INFO: Searching for element by name tenancyName
+2024-09-13 14:12:43,311: INFO: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF28FAF5]
+	(No symbol) [0x00007FF6AF33E2C7]
+	(No symbol) [0x00007FF6AF355EB1]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 14:12:43,597: INFO: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF28FAF5]
+	(No symbol) [0x00007FF6AF33E2C7]
+	(No symbol) [0x00007FF6AF355EB1]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 14:12:46,519: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 14:12:48,139: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-13 14:12:51,141: INFO: Searching for element by name tenancyName
+2024-09-13 14:12:51,144: INFO: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF28FAF5]
+	(No symbol) [0x00007FF6AF33E2C7]
+	(No symbol) [0x00007FF6AF355EB1]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 14:12:51,244: INFO: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF28FAF5]
+	(No symbol) [0x00007FF6AF33E2C7]
+	(No symbol) [0x00007FF6AF355EB1]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 14:12:54,470: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-13 14:12:56,037: INFO: Message: target frame detached: received Inspector.detached event
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF2A56A7]
+	(No symbol) [0x00007FF6AF2A4486]
+	(No symbol) [0x00007FF6AF2A3CD1]
+	(No symbol) [0x00007FF6AF2A3C10]
+	(No symbol) [0x00007FF6AF2A2AFB]
+	(No symbol) [0x00007FF6AF2C9176]
+	(No symbol) [0x00007FF6AF356907]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 14:12:56,391: INFO: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF28FAF5]
+	(No symbol) [0x00007FF6AF33E2C7]
+	(No symbol) [0x00007FF6AF355EB1]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 14:15:54,269: INFO: Driver quitting
+2024-09-13 14:15:56,535: INFO: Driver quitted
+2024-09-13 14:15:58,498: INFO: Driver quitting
+2024-09-13 14:16:00,728: INFO: Driver quitted
+2024-09-13 14:16:02,697: INFO: Driver quitting
+2024-09-13 14:16:04,921: INFO: Driver quitted
+2024-09-13 14:16:06,886: INFO: Driver quitting
+2024-09-13 14:16:09,097: INFO: Driver quitted
+2024-09-13 14:16:11,223: INFO: Driver quitting
+2024-09-13 14:16:13,448: INFO: Driver quitted
+2024-09-13 14:16:35,758: INFO: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AF489412+29090]
+	(No symbol) [0x00007FF6AF3FE239]
+	(No symbol) [0x00007FF6AF2BB1DA]
+	(No symbol) [0x00007FF6AF28FAF5]
+	(No symbol) [0x00007FF6AF33E2C7]
+	(No symbol) [0x00007FF6AF355EB1]
+	(No symbol) [0x00007FF6AF336493]
+	(No symbol) [0x00007FF6AF3009D1]
+	(No symbol) [0x00007FF6AF301B31]
+	GetHandleVerifier [0x00007FF6AF7A871D+3302573]
+	GetHandleVerifier [0x00007FF6AF7F4243+3612627]
+	GetHandleVerifier [0x00007FF6AF7EA417+3572135]
+	GetHandleVerifier [0x00007FF6AF545EB6+801862]
+	(No symbol) [0x00007FF6AF40945F]
+	(No symbol) [0x00007FF6AF404FB4]
+	(No symbol) [0x00007FF6AF405140]
+	(No symbol) [0x00007FF6AF3F461F]
+	BaseThreadInitThunk [0x00007FF9092D7374+20]
+	RtlUserThreadStart [0x00007FF90955CC91+33]
+
+2024-09-13 14:16:37,854: INFO: Driver quitting
+2024-09-13 14:16:40,101: INFO: Driver quitted
+2024-09-13 14:16:42,660: INFO: Driver quitting
+2024-09-13 14:16:46,261: INFO: Driver quitted
+2024-09-13 14:16:48,527: INFO: Driver quitting
+2024-09-13 14:16:50,788: INFO: Driver quitted
+2024-09-13 14:17:05,021: INFO: Driver quitting
+2024-09-13 14:17:07,311: INFO: Driver quitted

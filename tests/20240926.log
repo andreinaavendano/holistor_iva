@@ -1,0 +1,144 @@
+2024-09-26 21:20:24,083: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-26 21:20:24,558: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-26 21:20:28,778: INFO: Driver quitting
+2024-09-26 21:20:31,720: INFO: Driver quitted
+2024-09-26 21:25:59,543: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-26 21:25:59,991: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-26 21:26:04,172: INFO: Driver quitting
+2024-09-26 21:26:06,938: INFO: Driver quitted
+2024-09-26 21:27:47,149: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-26 21:27:47,580: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-26 21:27:51,174: INFO: Driver quitting
+2024-09-26 21:27:53,790: INFO: Driver quitted
+2024-09-26 22:38:20,070: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-26 22:38:21,782: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-26 22:38:21,782: INFO: Searching for element by name tenancyName
+2024-09-26 22:38:23,111: INFO: Element by name tenancyName found
+2024-09-26 22:38:23,129: INFO: Driver quitting
+2024-09-26 22:38:25,404: INFO: Driver quitted
+2024-09-26 22:38:27,768: INFO: Driver quitting
+2024-09-26 22:38:29,982: INFO: Driver quitted
+2024-09-26 22:38:32,122: INFO: Driver quitting
+2024-09-26 22:38:34,378: INFO: Driver quitted
+2024-09-26 22:38:36,409: INFO: Driver quitting
+2024-09-26 22:38:38,613: INFO: Driver quitted
+2024-09-26 23:09:23,150: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:09:23,150: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:09:23,164: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:09:23,164: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:09:23,220: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:09:23,220: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:09:23,232: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:09:23,234: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:10:51,451: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:10:51,451: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:10:51,463: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:10:51,463: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:10:51,522: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:10:51,522: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:10:51,583: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:10:51,587: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:11:10,088: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:11:10,088: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:11:10,133: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:11:10,133: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:11:14,812: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:11:14,812: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:11:14,864: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:11:14,867: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:11:25,330: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:11:25,330: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:18:58,481: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:18:58,481: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:18:58,496: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:18:58,496: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:19:06,658: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:19:06,658: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:19:06,669: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:19:06,669: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:19:06,754: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:19:06,754: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:19:06,765: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:19:06,765: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:19:08,594: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-26 23:19:11,835: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-26 23:23:20,178: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:23:20,178: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:23:20,625: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:23:20,625: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:23:29,819: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:23:29,819: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:23:53,968: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-26 23:23:55,466: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-26 23:26:03,642: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-26 23:26:05,439: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-26 23:28:24,308: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:28:24,308: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:28:24,369: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:28:24,369: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:28:24,607: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:28:24,607: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:28:24,657: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:28:24,657: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:28:37,654: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:28:37,654: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:28:37,671: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:28:37,671: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:28:37,790: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:28:37,790: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:28:37,805: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:28:37,808: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:28:41,802: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-26 23:28:43,146: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-26 23:28:43,196: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:28:43,197: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:28:43,211: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:28:43,211: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:28:43,286: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:28:43,286: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:28:43,298: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:28:43,302: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:33:31,826: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:33:31,827: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:33:31,954: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:33:31,954: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:33:47,366: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:33:47,366: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:33:47,386: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:33:47,388: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:33:48,940: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-26 23:33:51,296: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-26 23:33:51,338: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:33:51,338: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:33:51,373: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-26 23:33:51,376: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-26 23:39:35,180: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-26 23:39:36,601: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-26 23:39:36,728: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-26 23:39:38,454: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-26 23:39:38,455: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-26 23:39:38,456: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-26 23:39:38,467: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-26 23:39:38,498: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-26 23:39:38,498: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-26 23:39:38,498: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-26 23:39:38,529: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-26 23:39:38,529: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-26 23:39:38,530: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-26 23:39:38,530: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-26 23:40:24,329: INFO: Searching for element by name tenancyName
+2024-09-26 23:40:24,344: INFO: Element by name tenancyName found
+2024-09-26 23:45:14,616: INFO: Driver quitting
+2024-09-26 23:45:16,935: INFO: Driver quitted
+2024-09-26 23:45:32,447: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-26 23:45:33,879: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-26 23:45:33,881: INFO: Searching for element by name tenancyName
+2024-09-26 23:45:34,950: INFO: Element by name tenancyName found
+2024-09-26 23:45:35,048: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-26 23:45:35,102: INFO: Element by name userNameOrEmailAddress found
+2024-09-26 23:46:58,543: INFO: Navigating to https://holistorsaas.com.ar/account/login
+2024-09-26 23:46:59,865: INFO: https://holistorsaas.com.ar/account/login opened
+2024-09-26 23:46:59,867: INFO: Searching for element by name tenancyName
+2024-09-26 23:47:00,901: INFO: Element by name tenancyName found
+2024-09-26 23:47:00,922: INFO: Searching for element by name userNameOrEmailAddress
+2024-09-26 23:47:00,942: INFO: Element by name userNameOrEmailAddress found

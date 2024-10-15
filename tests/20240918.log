@@ -1,0 +1,974 @@
+2024-09-18 09:19:11,593: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 09:19:13,946: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 09:19:13,947: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:19:15,489: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 09:19:15,547: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 09:19:17,095: INFO: Driver quitting
+2024-09-18 09:19:20,523: INFO: Driver quitted
+2024-09-18 09:20:08,330: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 09:20:10,496: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 09:20:10,498: INFO: Searching for element by name tenancyName
+2024-09-18 09:20:11,992: INFO: Element by name tenancyName found
+2024-09-18 09:20:12,008: INFO: Driver quitting
+2024-09-18 09:20:14,612: INFO: Driver quitted
+2024-09-18 09:21:13,859: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 09:21:16,109: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 09:21:16,109: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:21:17,878: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 09:21:17,935: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 09:21:19,660: INFO: Driver quitting
+2024-09-18 09:21:22,575: INFO: Driver quitted
+2024-09-18 09:26:56,034: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:26:56,035: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:26:56,086: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:26:56,087: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:20,960: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:20,961: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:20,994: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:20,994: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:22,158: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:22,158: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:22,171: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:22,172: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:23,549: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:23,553: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:23,564: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:23,566: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:27,538: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:27,538: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:27,555: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:27,556: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:29,183: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 09:27:31,633: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 09:27:31,634: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:27:33,048: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 09:27:33,217: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 09:27:34,620: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:34,621: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:34,634: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:34,635: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:38,747: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:38,747: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:38,759: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:38,760: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:42,428: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:42,428: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:42,444: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:42,444: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:46,271: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:46,272: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:46,285: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:46,286: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:50,766: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:50,766: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:50,783: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:27:50,783: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:27:52,914: INFO: Driver quitting
+2024-09-18 09:27:55,304: INFO: Driver quitted
+2024-09-18 09:28:42,222: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 09:28:44,460: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 09:28:47,461: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:28:47,483: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 09:28:47,523: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 09:28:48,482: INFO: Driver quitting
+2024-09-18 09:28:50,931: INFO: Driver quitted
+2024-09-18 09:30:29,493: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:30:29,493: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:30:29,505: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 09:30:29,505: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 09:30:53,516: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 09:30:55,658: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 09:30:58,660: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:30:58,722: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 09:30:58,785: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 09:30:59,934: INFO: Driver quitting
+2024-09-18 09:31:02,269: INFO: Driver quitted
+2024-09-18 09:31:47,851: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 09:31:50,005: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 09:38:35,803: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:38:35,834: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 09:38:35,881: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 09:38:37,078: INFO: Driver quitting
+2024-09-18 09:38:39,497: INFO: Driver quitted
+2024-09-18 09:41:09,398: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 09:41:11,842: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 09:41:29,460: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:41:29,491: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 09:41:29,545: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 09:41:29,761: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:41:39,807: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 09:41:43,160: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:41:53,184: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 09:41:53,713: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:42:03,784: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 09:42:34,305: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:42:44,374: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 09:42:48,425: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:42:58,504: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 09:42:59,866: INFO: Driver quitting
+2024-09-18 09:43:02,179: INFO: Driver quitted
+2024-09-18 09:48:24,222: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 09:48:24,655: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 09:48:27,745: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:48:28,643: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 09:48:28,674: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 09:48:28,954: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:48:39,057: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 09:50:48,441: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:50:58,478: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 09:50:59,859: INFO: Driver quitting
+2024-09-18 09:51:02,178: INFO: Driver quitted
+2024-09-18 09:51:26,777: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 09:51:28,994: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 09:51:32,047: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:51:32,065: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 09:51:32,093: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 09:51:32,333: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:51:42,373: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 09:52:08,256: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:52:18,344: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 09:52:20,057: INFO: Driver quitting
+2024-09-18 09:52:22,348: INFO: Driver quitted
+2024-09-18 09:55:10,223: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 09:55:12,548: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 09:55:15,550: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:55:15,566: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 09:55:18,577: INFO: Driver quitting
+2024-09-18 09:55:21,003: INFO: Driver quitted
+2024-09-18 09:57:48,482: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 09:57:51,078: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 09:57:54,080: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:57:54,112: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 09:57:57,155: INFO: Driver quitting
+2024-09-18 09:57:59,465: INFO: Driver quitted
+2024-09-18 09:59:15,554: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 09:59:17,834: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 09:59:20,835: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 09:59:20,851: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 09:59:23,901: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 09:59:23,901: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 09:59:23,926: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 09:59:23,926: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 09:59:45,178: INFO: Driver quitting
+2024-09-18 09:59:47,462: INFO: Driver quitted
+2024-09-18 10:01:05,081: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 10:01:07,228: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 10:01:10,230: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:01:10,261: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 10:01:13,275: INFO: Searching for element by name tenancyName
+2024-09-18 10:01:13,307: INFO: Element by name tenancyName found
+2024-09-18 10:01:13,364: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 10:01:13,364: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 10:01:13,364: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 10:01:13,364: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 10:01:13,382: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 10:01:13,382: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 10:01:13,382: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 10:01:13,382: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 10:01:25,258: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:01:25,258: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:01:25,269: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:01:25,271: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:01:33,766: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:01:33,766: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:01:33,777: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:01:33,779: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:03:24,762: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:03:24,762: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:03:24,778: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:03:24,778: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:04:01,191: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:04:01,191: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:04:01,203: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:04:01,203: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:04:30,620: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:04:30,620: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:04:30,636: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:04:30,636: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:04:45,095: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 10:04:45,095: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 10:04:45,095: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 10:04:45,095: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 10:04:45,108: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 10:04:45,108: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 10:04:45,108: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 10:04:45,108: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 10:04:45,189: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:04:45,189: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:04:45,189: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:04:45,189: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:04:45,189: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:04:45,189: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:04:45,189: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:04:45,189: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:04:45,196: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:04:45,196: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:04:45,208: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:04:45,208: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:04:45,208: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:04:45,208: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:04:45,208: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:04:45,208: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:04:45,246: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:04:45,246: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:04:45,264: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:04:45,264: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:04:52,330: INFO: Driver quitting
+2024-09-18 10:04:54,661: INFO: Driver quitted
+2024-09-18 10:05:11,431: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 10:05:14,736: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 10:05:17,737: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:05:17,789: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 10:05:20,790: INFO: Searching for element by name tenancyName
+2024-09-18 10:05:20,836: INFO: Element by name tenancyName found
+2024-09-18 10:05:20,858: INFO: Driver quitting
+2024-09-18 10:05:23,163: INFO: Driver quitted
+2024-09-18 10:09:06,626: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 10:09:08,880: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 10:09:11,881: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:09:11,900: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 10:09:11,925: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 10:09:12,857: INFO: Driver quitting
+2024-09-18 10:09:15,444: INFO: Driver quitted
+2024-09-18 10:12:50,026: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 10:12:52,380: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 10:13:07,865: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:13:07,865: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:13:07,878: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:13:07,879: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:13:55,711: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:13:55,726: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 10:13:55,758: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 10:14:25,728: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:14:35,738: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:19:00,801: INFO: Driver quitting
+2024-09-18 10:19:04,882: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000189B0B1E210>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/bafd06dbc760c3a1c306deec11bec56a
+2024-09-18 10:19:08,972: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000189B0C42E10>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/bafd06dbc760c3a1c306deec11bec56a
+2024-09-18 10:19:13,049: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000189B0C414C0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/bafd06dbc760c3a1c306deec11bec56a
+2024-09-18 10:19:21,268: INFO: Driver quitted
+2024-09-18 10:20:30,898: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 10:20:33,119: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 10:20:36,120: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:20:36,182: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 10:20:36,215: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 10:20:37,063: INFO: Driver quitting
+2024-09-18 10:20:39,631: INFO: Driver quitted
+2024-09-18 10:21:09,217: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 10:21:11,545: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 10:21:14,547: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:21:14,606: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 10:21:14,647: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 10:21:15,508: INFO: Driver quitting
+2024-09-18 10:21:17,843: INFO: Driver quitted
+2024-09-18 10:23:27,765: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 10:23:30,166: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 10:23:33,312: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:23:33,330: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 10:23:33,345: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 10:23:33,345: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 10:23:33,357: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 10:23:33,357: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 10:23:33,421: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:23:33,437: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 10:23:33,437: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 10:23:33,437: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 10:23:55,023: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:23:55,023: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:23:55,037: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:23:55,037: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:25:42,061: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:25:42,161: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 10:25:42,226: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 10:25:42,826: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:25:52,872: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:25:53,414: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:26:03,482: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:26:04,008: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:26:14,058: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:26:44,200: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:26:54,255: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:26:54,790: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:27:04,823: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:27:05,340: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:27:15,357: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:27:16,004: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:27:26,051: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:27:26,552: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:27:36,586: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:27:37,100: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:27:47,171: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:27:47,747: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:27:57,765: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:27:58,297: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:28:08,391: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:28:08,916: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:28:15,687: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 10:28:15,702: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 10:28:16,031: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:28:26,090: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:28:26,601: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:28:36,656: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:28:37,176: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:28:45,886: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:29:24,675: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 10:29:27,296: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 10:29:30,657: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:29:30,735: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 10:29:30,735: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 10:29:30,735: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 10:29:30,782: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:29:30,797: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 10:29:30,797: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 10:29:30,797: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 10:30:23,248: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:30:23,248: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:30:23,266: INFO: 'WebDriver' object has no attribute 'shape'
+2024-09-18 10:30:23,266: INFO: 'WebDriver' object has no attribute '__len__'
+2024-09-18 10:30:34,912: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:30:34,928: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 10:30:34,959: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 10:30:35,140: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:30:45,258: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:30:45,780: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:30:55,829: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:30:56,363: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:31:06,400: INFO: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='forget-password']"}
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF612FB9412+29090]
+	(No symbol) [0x00007FF612F2E239]
+	(No symbol) [0x00007FF612DEB1DA]
+	(No symbol) [0x00007FF612E3EFE7]
+	(No symbol) [0x00007FF612E3F23C]
+	(No symbol) [0x00007FF612E897C7]
+	(No symbol) [0x00007FF612E6672F]
+	(No symbol) [0x00007FF612E865A2]
+	(No symbol) [0x00007FF612E66493]
+	(No symbol) [0x00007FF612E309D1]
+	(No symbol) [0x00007FF612E31B31]
+	GetHandleVerifier [0x00007FF6132D871D+3302573]
+	GetHandleVerifier [0x00007FF613324243+3612627]
+	GetHandleVerifier [0x00007FF61331A417+3572135]
+	GetHandleVerifier [0x00007FF613075EB6+801862]
+	(No symbol) [0x00007FF612F3945F]
+	(No symbol) [0x00007FF612F34FB4]
+	(No symbol) [0x00007FF612F35140]
+	(No symbol) [0x00007FF612F2461F]
+	BaseThreadInitThunk [0x00007FFFCB127374+20]
+	RtlUserThreadStart [0x00007FFFCCC9CC91+33]
+
+2024-09-18 10:31:06,902: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:31:09,239: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 10:31:09,240: INFO: 'WebElement' object has no attribute 'shape'
+2024-09-18 10:31:09,240: INFO: 'WebElement' object has no attribute '__len__'
+2024-09-18 10:31:09,264: INFO: Searching for element by xpath //*[@id='forget-password']
+2024-09-18 10:31:09,278: INFO: Element by xpath //*[@id='forget-password'] found
+2024-09-18 10:31:09,295: INFO: Clicking on Olvidó la contraseña?
+2024-09-18 10:34:39,132: INFO: Driver quitting
+2024-09-18 10:34:43,226: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B198C549E0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/ec69a331b11a0c4985955d295291fdd3
+2024-09-18 10:34:47,352: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B199827D40>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/ec69a331b11a0c4985955d295291fdd3
+2024-09-18 10:34:51,448: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B199DDF1A0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión')': /session/ec69a331b11a0c4985955d295291fdd3
+2024-09-18 10:35:05,580: INFO: Navigating to https://plataforma-saas-qa.azurewebsites.net/account/login
+2024-09-18 10:35:07,781: INFO: https://plataforma-saas-qa.azurewebsites.net/account/login opened
+2024-09-18 10:35:11,485: INFO: Driver quitting
+2024-09-18 10:35:13,811: INFO: Driver quitted
